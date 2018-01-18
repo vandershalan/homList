@@ -1,0 +1,8 @@
+{
+  "name": "homList",
+  "app_id": "12a02272",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
